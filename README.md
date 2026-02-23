@@ -13,7 +13,7 @@ $$
 x' = v, \quad v' = -\omega^2 x
 $$
 
-and compare Euler vs RK4 to the exact solution \(x(t)=\cos(\omega t)\).
+and compare Euler vs RK4 to the exact solution  ($$x(t)=\cos(\omega t)$$).
 
 ## Run
 ```bash
