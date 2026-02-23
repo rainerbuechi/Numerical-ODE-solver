@@ -9,9 +9,9 @@ Small numerical ODE solver implementations (written for learning + physics simul
 ## Example: Harmonic Oscillator
 We solve the system
 
-\[
-x' = v,\qquad v' = -\omega^2 x
-\]
+$$
+x' = v, \quad v' = -\omega^2 x
+$$
 
 and compare Euler vs RK4 to the exact solution \(x(t)=\cos(\omega t)\).
 
